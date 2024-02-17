@@ -4,15 +4,10 @@
 (Give a short description of what the feature you are adding)
 (Where relevant, please add images)
 (Link the github project task if you can not attach the issue directly to the PR)
+(Also bullet out the major changes and minor descriptions eg new files
 -->
 
-## Changelist
-
-<!-- (Bullet out the major changes and minor descriptions eg new files) -->
-
-1. Change 1
-
-## Testing
+## Testing & Validation
 
 <!--
 (Add any testing that you have done here either automated or manual.)
